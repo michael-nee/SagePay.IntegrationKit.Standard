@@ -1,0 +1,9 @@
+C:\Users\Michael\source\repos\SagePay.IntergrationKit.Standard\bin\Debug\netstandard2.0\SagePay.IntergrationKit.Standard.deps.json
+C:\Users\Michael\source\repos\SagePay.IntergrationKit.Standard\bin\Debug\netstandard2.0\SagePay.IntergrationKit.Standard.dll
+C:\Users\Michael\source\repos\SagePay.IntergrationKit.Standard\bin\Debug\netstandard2.0\SagePay.IntergrationKit.Standard.pdb
+C:\Users\Michael\source\repos\SagePay.IntergrationKit.Standard\obj\Debug\netstandard2.0\SagePay.IntergrationKit.Standard.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\SagePay.IntergrationKit.Standard\obj\Debug\netstandard2.0\SagePay.IntergrationKit.Standard.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\SagePay.IntergrationKit.Standard\obj\Debug\netstandard2.0\SagePay.IntergrationKit.Standard.AssemblyInfo.cs
+C:\Users\Michael\source\repos\SagePay.IntergrationKit.Standard\obj\Debug\netstandard2.0\SagePay.IntergrationKit.Standard.dll
+C:\Users\Michael\source\repos\SagePay.IntergrationKit.Standard\obj\Debug\netstandard2.0\SagePay.IntergrationKit.Standard.pdb
+C:\Users\Michael\source\repos\SagePay.IntergrationKit.Standard\obj\Debug\netstandard2.0\SagePay.IntergrationKit.Standard.csprojAssemblyReference.cache
