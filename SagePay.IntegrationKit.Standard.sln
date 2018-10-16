@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SagePay.IntegrationKit.Standard", "src\SagePay.IntegrationKit.Standard\SagePay.IntegrationKit.Standard.csproj", "{5A5D0044-5941-4635-A898-9075307E6030}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2999302C-891B-42B9-850D-84F2F7B9D224}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{CFDED4C3-44C4-4F1A-90EC-004DA1D17733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SagePay.IntegrationKit.Standard.Tests", "test\SagePay.IntegrationKit.Standard.Tests\SagePay.IntegrationKit.Standard.Tests.csproj", "{92466523-E279-4EE7-AE29-531DE055A5DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A5D0044-5941-4635-A898-9075307E6030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5D0044-5941-4635-A898-9075307E6030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A5D0044-5941-4635-A898-9075307E6030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A5D0044-5941-4635-A898-9075307E6030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92466523-E279-4EE7-AE29-531DE055A5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92466523-E279-4EE7-AE29-531DE055A5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92466523-E279-4EE7-AE29-531DE055A5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92466523-E279-4EE7-AE29-531DE055A5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5A5D0044-5941-4635-A898-9075307E6030} = {2999302C-891B-42B9-850D-84F2F7B9D224}
+		{92466523-E279-4EE7-AE29-531DE055A5DE} = {CFDED4C3-44C4-4F1A-90EC-004DA1D17733}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E8E21C4-649B-4FAB-806B-C384CA849CF4}
+	EndGlobalSection
+EndGlobal
